@@ -1,0 +1,2 @@
+body{margin:0}.App{background-color:bisque;font-size:24px}.App__text{margin:0;text-align:center}.todo-info{text-align:center;width:800px}.todo-info__complited{font-style:italic}.todo-list{display:flex;flex-direction:column;align-items:center;list-style-type:none;grid-gap:50px;gap:50px}.todo-list__item{border-radius:50px}.isDone{background-color:#0f0;opacity:.5;transition:.3s}.inProgress{background-color:#ff9d9d;transition:.3s}.inProgress:hover{background-color:red;color:#fff}
+/*# sourceMappingURL=main.b72dba1a.chunk.css.map */
